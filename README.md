@@ -36,6 +36,8 @@ Let's connect and build something incredible together! 🚀
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" title="Jest" alt="Jest" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Figma" alt="Figma" height="50" /></a>   
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" height="50" /></a>  
+<a href="https://www.java.com/es/" target="_blank"><img style="margin: 10px" src="https://flyclipart.com/thumb2/java-892722.png" title="Java" alt="Java" height="50" /></a>   
+ 
 </section>
 
 <section >
